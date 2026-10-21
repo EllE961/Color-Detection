@@ -1,0 +1,17 @@
+{
+ "image": "paper.jpg",
+ "size": [
+  800,
+  599
+ ],
+ "boxes": 10,
+ "names_drawn": 5,
+ "update_frame_ms_median": 64.3,
+ "per_name": {
+  "DarkGray": 4,
+  "Gray": 3,
+  "Red": 1,
+  "Teal": 1,
+  "Aqua": 1
+ }
+}

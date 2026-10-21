@@ -1,0 +1,24 @@
+{
+ "image": "macarons.jpg",
+ "size": [
+  800,
+  531
+ ],
+ "boxes": 23,
+ "names_drawn": 12,
+ "update_frame_ms_median": 36.5,
+ "per_name": {
+  "Beige": 4,
+  "Yellow": 3,
+  "Coral": 2,
+  "Salmon": 2,
+  "DarkOrange": 2,
+  "Gold": 2,
+  "LightYellow": 2,
+  "Silver": 2,
+  "Red": 1,
+  "Brown": 1,
+  "Orange": 1,
+  "Gray": 1
+ }
+}

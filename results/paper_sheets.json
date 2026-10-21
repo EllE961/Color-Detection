@@ -1,0 +1,63 @@
+{
+  "cream": {
+    "median_hsv": [
+      4,
+      34,
+      167
+    ],
+    "names_matching_median": []
+  },
+  "blue": {
+    "median_hsv": [
+      114,
+      78,
+      121
+    ],
+    "names_matching_median": []
+  },
+  "green": {
+    "median_hsv": [
+      82,
+      108,
+      136
+    ],
+    "names_matching_median": [
+      "Aqua"
+    ]
+  },
+  "brick red": {
+    "median_hsv": [
+      2,
+      118,
+      148
+    ],
+    "names_matching_median": []
+  },
+  "dark purple": {
+    "median_hsv": [
+      133,
+      77,
+      75
+    ],
+    "names_matching_median": []
+  },
+  "yellow": {
+    "median_hsv": [
+      22,
+      100,
+      200
+    ],
+    "names_matching_median": []
+  },
+  "carpet": {
+    "median_hsv": [
+      156,
+      28,
+      108
+    ],
+    "names_matching_median": [
+      "Gray",
+      "DarkGray"
+    ]
+  }
+}

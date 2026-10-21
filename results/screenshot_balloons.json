@@ -1,0 +1,31 @@
+{
+ "image": "balloons.jpg",
+ "size": [
+  800,
+  600
+ ],
+ "boxes": 86,
+ "names_drawn": 19,
+ "update_frame_ms_median": 137.8,
+ "per_name": {
+  "Red": 15,
+  "Coral": 10,
+  "Orange": 10,
+  "Salmon": 9,
+  "Brown": 8,
+  "DarkOrange": 8,
+  "Gray": 4,
+  "Silver": 4,
+  "Chocolate": 3,
+  "Gold": 3,
+  "Maroon": 2,
+  "LightYellow": 2,
+  "Lavender": 2,
+  "DarkRed": 1,
+  "Crimson": 1,
+  "Pink": 1,
+  "HotPink": 1,
+  "SaddleBrown": 1,
+  "Beige": 1
+ }
+}
